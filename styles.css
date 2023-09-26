@@ -14,20 +14,25 @@
 }
 .grid_item1{
 	background-color:green;
-	grid-row:1 / -1
+	grid-row:1 / -1;
+	padding:1em;
 }
 .grid_item2,.grid_item6{
 	background-color:yellowgreen;
-	grid-column:2 / -1
+	grid-column:2 / -1;
+	padding:1em;
 }
 .grid_item5{
 	background-color:lightskyblue;
+	padding:1em;
 }
 
 .grid_item3{
 	background-color:white;
+	padding:1em;
 }
 .grid_item4{
 	background-color:lightpink;
+	padding:1em;
 }
 
