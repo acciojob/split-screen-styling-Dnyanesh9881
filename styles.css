@@ -13,7 +13,7 @@
 	grid-template-rows:1fr 3fr 1fr;
 }
 .grid_item1{
-	background-color:green;
+	background-color:#D7E8D4;
 	grid-row:1 / -1;
 	padding:1em;
 }
